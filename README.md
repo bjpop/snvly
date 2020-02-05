@@ -1,3 +1,5 @@
+# NOTE: snvly has been supersceded and replaced by [Varlap](https://github.com/bjpop/varlap). Please use Varlap instead
+
 # Overview 
 
 Snvly is designed to compute various bits of information about SNVs from corresponding BAM files.
